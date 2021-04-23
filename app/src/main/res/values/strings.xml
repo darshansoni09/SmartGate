@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Gate Security System</string>
+    <string name="main_app_name">Smart Gate </string>
+    <string name="Login">Smart Gate Login </string>
+    <string name="information">Society Information </string>
+    <string name="Register">Smart Gate Registration </string>
+
+</resources>
